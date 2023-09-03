@@ -1,0 +1,41 @@
+CPSC 350-02 PROJECT 5 README - Lazy Balanced Trees
+
+Personal Info
+  a. Full name: Keshia Suwitra
+  b. Student ID: 2407264
+  c. Chapman email: suwitra@chapman.edu
+  d. Course number and section: CPSC 350-02
+  e. Assignment: Project 5 - Lazy Balanced Trees
+
+List of all source files:
+   - main.cpp
+   - LazyBST.h
+   - Driver.h
+   - Driver.cpp
+   - Student.h
+   - Student.cpp
+   - Faculty.h
+   - Faculty.cpp
+   - TreeNodePA5.h
+   - DblList.h
+   - ListNode.h
+
+A description of any known compile or runtime errors, code limitations, or deviations
+from the assignment specification (if applicable):
+  - Program begins with 3 default advisors you can add students to with the following IDs: 20, 50, 60
+
+A list of all references used to complete the assignment, including peers (if applicable):
+  - Partner: Quillan Gee
+  - Exam 2 Practice Problem #4
+  - https://www.geeksforgeeks.org/operator-overloading-cpp/#
+    - Operator overloading
+  - Classmate Cael Formanek for including pass by reference & for Student.cpp setAdvisorID method:
+          void Student::setAdvisorID(int& newAdvisorID)
+  - https://stackoverflow.com/questions/10150468/how-to-redirect-cin-and-cout-to-files
+    - Redirecting cout for methods to file (exit method)
+
+Instructions for running the assignment:
+  docker start compsci
+  docker attach compsci
+  g++ *.cpp -o e.exe
+  ./e.exe

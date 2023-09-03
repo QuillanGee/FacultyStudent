@@ -1,0 +1,24 @@
+Student ID: 400
+Student name: Ross
+Student grade level: Junior
+Student GPA: 2.2
+Student advisor ID: 60
+
+Faculty ID: 20
+Faculty name: elia
+Faculty level: lecturer
+Faculty department: CS
+Students assigned to this faculty: 
+
+Faculty ID: 50
+Faculty name: erik
+Faculty level: lecturer
+Faculty department: CS
+Students assigned to this faculty: 
+
+Faculty ID: 60
+Faculty name: elizabeth
+Faculty level: lecturer
+Faculty department: CS
+Students assigned to this faculty: 400 
+
